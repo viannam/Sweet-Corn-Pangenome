@@ -58,7 +58,7 @@ The core PHG workflow includes:
 
 ---
 ![PHG workflow](docs/phg_workflow.jpg)
-*PHG workflow *
+*PHG workflow*
 
 📂 Input Files
 Ensure these are properly formatted and available:
