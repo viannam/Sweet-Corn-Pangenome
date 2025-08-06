@@ -57,6 +57,9 @@ The core PHG workflow includes:
    - `hvcf2gvcf` — Convert paths to gVCFs (for downstream use)
 
 ---
+![PHG workflow](docs/phg_workflow.jpg)
+*PHG workflow *
+
 📂 Input Files
 Ensure these are properly formatted and available:
 
